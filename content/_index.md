@@ -36,9 +36,9 @@ sections:
     design:
       columns: "1"
 
-  # About Me
+  # ABOUT
   - block: markdown
-    id: research
+    id: about
     content:
       title: "📚 About"
       subtitle: ""
