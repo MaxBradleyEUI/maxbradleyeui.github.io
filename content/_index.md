@@ -47,17 +47,52 @@ sections:
     design:
       columns: "1"
 
-  # PUBLICATIONS (pure markdown list — edit freely)
+
+  # PUBLICATIONS
   - block: markdown
     id: papers
     content:
       title: "Publications"
       text: |-
-        ### Working papers
-        - **The Contextual Climate** (with Coauthor). Under review. [PDF](/uploads/contextual_climate.pdf) · [Code](https://github.com/MaxBradleyEUI/contextual-climate)
 
-        ### Selected publications
-        - **Title of Published Paper.** *Journal Name*, 2025. [DOI](https://doi.org/xx) · [PDF](/uploads/paper.pdf)
+        ### Peer-Reviewed Articles
+        <p>
+        <em>The Ethnic Origins of Affective Polarization: Statistical Evidence from Cross-National Data</em>  
+        with Sylvain Chauchard. <br>
+        <em>Frontiers in Political Science</em>, 4, 920615 (2022).  
+        [Journal link](https://www.frontiersin.org/articles/10.3389/fpos.2022.920615/full)
+        </p>
+
+        ### Revise & Resubmit
+        <p>
+        <em>Mass Attitudes towards Russia’s Aggression against Ukraine: It Is Not the Economy</em>  
+        with František Kostelka, Martín Alberdi, Max Bradley, Thomas Fiselier, Alexandra Jabbour, Noor Mansour,  
+        Ekaterina Minaeva, Simona Porciuleanu, and Daria Rafailova. <br>
+        <em>European Journal of Political Research</em>, Revise & Resubmit.
+        </p>
+
+        ### Under Review
+        <p>
+        <em>Cost, Risk, and Threat: The Material and Contextual Factors Driving Climate Policy Preferences.</em>  
+        </p>
+        <p>
+        <em>Educational Policies Can Strengthen Climate Coalitions</em>  
+        with Rens Chazottes, Susanna Garside, and Nina Lopez-Uroz.
+        </p>
+
+        ### Working Papers
+        <p>
+        <em>Adapt or Perish: How the Spatial Distribution of Human Capital Shapes the Economic and Political Effects of the Green Transition.</em>
+        </p>
+        <p>
+        <em>Flood Insurance and Risk Socialization</em>  
+        with Martín Alberdi, Alexandra Jabbour, and František Kostelka.
+        </p>
+        <p>
+        <em>Taking Out the Trash: Political Implications of Door-to-Door Waste Management in Catalonia</em>  
+        with Cèlia Estruch-García and Pau Grau.
+        </p>
+
 
   # TEACHING (pure markdown list)
   - block: markdown
