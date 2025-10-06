@@ -22,7 +22,6 @@ sections:
 
         <div style="font-size:1.1rem; line-height:1.5; margin-bottom:14px;">
           PhD Researcher, European University Institute<br>
-          Junior Visiting Scholar, Nuffield College, University of Oxford
         </div>
 
         <div style="margin:14px 0;">
