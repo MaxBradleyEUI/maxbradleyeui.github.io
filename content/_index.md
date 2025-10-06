@@ -8,8 +8,9 @@ design:
   spacing: "6rem"
 
 sections:
-  # HERO (photo, name, affiliations, socials, CV)
+  # HERO (photo, name, socials, CV)
   - block: markdown
+    id: hero
     content:
       title: ""
       subtitle: ""
@@ -23,9 +24,10 @@ sections:
           <div style="margin:14px 0;">
             <a href="mailto:max.bradley@eui.eu">Email</a> ·
             <a href="https://github.com/MaxBradleyEUI">GitHub</a> ·
-            <a href="https://scholar.google.com/your-id">Google Scholar</a> ·
-            <a href="https://orcid.org/0000-0000-0000-0000">ORCID</a> ·
-            <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a>
+            <a href="https://scholar.google.com/citations?user=4QegIYAAAAAJ&hl=en">Google Scholar</a> ·
+            <a href="https://orcid.org/0009-0002-1750-3950">ORCID</a> ·
+            <a href="https://www.linkedin.com/in/max-bradley/">LinkedIn</a> ·
+            <a href="https://bsky.app/profile/maxbradley.bsky.social">Bluesky</a>
           </div>
           <div style="margin-top:6px;">
             <a href="/uploads/resume.pdf">Download CV</a>
@@ -34,42 +36,41 @@ sections:
     design:
       columns: "1"
 
-  # SHORT RESEARCH BLURB
+  # About Me
   - block: markdown
+    id: research
     content:
-      title: "📚 My Research"
+      title: "📚 About"
       subtitle: ""
       text: |-
         I study the political economy of the green transition. My work examines how local human capital concentration shapes firms’ adaptation to decarbonization and how these uneven economic effects translate into political preferences and behavior.
     design:
       columns: "1"
 
-  # PUBLICATIONS (shows items marked as featured)
+  # PUBLICATIONS (featured)
   - block: collection
     id: papers
     content:
       title: "Publications"
       filters:
         folders: ["publications"]
-        featured_only: true
+      featured_only: true
     design:
       view: article-grid
       columns: 2
 
-# Teaching
+  # TEACHING
   - block: collection
     id: teaching
     content:
       title: "Teaching"
       filters:
-        folders: ["courses"]   # pulls items from content/courses/
-      # optional filters:
+        folders: ["courses"]
       exclude_featured: false
     design:
-      view: card               # options: card, article-grid, compact, list
-      columns: 2               # tweak as you like
+      view: card
+      columns: 2
 
-  
   # NEWS / BLOG
   - block: collection
     id: news
