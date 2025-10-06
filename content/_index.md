@@ -101,9 +101,9 @@ sections:
           <img src="/uploads/theory_of_decarb.PNG" alt="Theory of Decarbonization diagram" style="width:90%;max-width:600px;margin-bottom:20px;">
         </div>
 
-        I collaborate on teaching innovation in the politics of climate change. Together with <a href="https://vivo.brown.edu/display/jcolgan">Jeff Colgan</a> at Brown University’s <a href="https://climate.watson.brown.edu/syllabus-bank">Climate Syllabus Bank</a>, I helped design an approach for teaching the political economy of decarbonization that emphasizes the different <em>theories of change</em> underlying climate action.
+        Together with <a href="https://vivo.brown.edu/display/jcolgan">Jeff Colgan</a> at Brown University’s <a href="https://climate.watson.brown.edu/syllabus-bank">Climate Syllabus Bank</a>, I recently designed an approach for teaching the political economy of decarbonization which emphasizes the different <em>theories of change</em> underlying climate action.
 
-        Our project introduces a <strong>Theory of Decarbonization</strong> framework (see above) that helps instructors:
+        Our project introduces a <strong>Theory of Decarbonization</strong> framework (see above ) that helps instructors:
         a) build structured and balanced syllabi,
         b) map existing theories of change (e.g., Kyoto, Carbon Taxes, Green New Deal), and
         c) develop hands-on exercises where students trace their own theory of change.
