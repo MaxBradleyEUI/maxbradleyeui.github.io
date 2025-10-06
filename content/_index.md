@@ -91,21 +91,37 @@ sections:
         <strong>Reducing Gender-Based Polarization: A Field Study in UK Schools</strong> (with Henri Pozsar, Marica Miglio, Beth Ginsburg, and Simon Hix).
         </p>
 
-  # TEACHING (pure markdown list)
+  # TEACHING
   - block: markdown
     id: teaching
     content:
-      title: "Teaching"
+      title: "Teaching & Pedagogical Development"
       text: |-
-        - **Introduction to Political Economy** — EUI (TA), Winter 2025. [Syllabus](/uploads/syllabus_intro_poli_econ.pdf)
-        - **Data Tutor** — Research Analytics Unit, SPS, 2023–24
+        <div style="text-align:center;">
+          <img src="/uploads/theory_of_decarb.PNG" alt="Theory of Decarbonization diagram" style="width:90%;max-width:600px;margin-bottom:20px;">
+        </div>
 
-  # NEWS (pure markdown list)
+        I collaborate on teaching innovation in the politics of climate change. Together with <a href="https://vivo.brown.edu/display/jcolgan">Jeff Colgan</a> at Brown University’s <a href="https://climate.watson.brown.edu/syllabus-bank">Climate Syllabus Bank</a>, I helped design an approach for teaching the political economy of decarbonization that emphasizes the different <em>theories of change</em> underlying climate action.
+
+        Our project introduces a <strong>Theory of Decarbonization</strong> framework (see above) that helps instructors:
+        a) build structured and balanced syllabi,
+        b) map existing theories of change (e.g., Kyoto, Carbon Taxes, Green New Deal), and
+        c) develop hands-on exercises where students trace their own theory of change.
+
+        The framework is presented in our short explainer video and detailed in a companion working paper that reviews the emerging literature on the political economy of decarbonization and offers practical guidance for instructors.
+
+        - 🎥 <a href="https://www.youtube.com/watch?v=CI20SpXpn8I">Watch the explainer video</a>
+        - 📄 <a href="https://climate.watson.brown.edu/sites/default/files/2025-08/Designing%20Climate%20Politics%20Syllabus%202025July25.pdf">Read the working paper</a>
+    design:
+      columns: "1"
+
+  # NEWS
   - block: markdown
     id: news
     content:
       title: "News"
-      text: |-
-        - *Oct 2025:* Grant awarded for XYZ project. [Details](/blog/grant-xyz/)
-        - *Sep 2025:* New working paper out: **The Contextual Climate**. [PDF](/uploads/contextual_climate.pdf)
+      text: ""
+    design:
+      columns: "1"
+
 ---
