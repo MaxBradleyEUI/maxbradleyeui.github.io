@@ -1,5 +1,5 @@
 ---
-# Leave the homepage title empty to use the site title
+# Home page
 title: ""
 date: 2022-10-24
 type: landing
@@ -8,22 +8,28 @@ design:
   spacing: "6rem"
 
 sections:
-  # ✅ About block (pulls your author profile)
-  - block: about
+  - block: markdown
     content:
-      title: ""
-      author: admin
+      title: "About Me"
+      subtitle: ""
+      text: |-
+        **Max Bradley**
+
+        PhD Researcher, [European University Institute](https://www.eui.eu)  
+        Junior Visiting Scholar, [Nuffield College, University of Oxford](https://www.nuffield.ox.ac.uk/)
+
+        I study the political economy of the green transition, focusing on how local human capital shapes adaptation and political responses.  
+        Contact: [max.bradley@eui.eu](mailto:max.bradley@eui.eu)
+
     design:
-      avatar:
-        size: medium
-        shape: circle
+      columns: "1"
 
   - block: markdown
     content:
       title: "📚 My Research"
       subtitle: ""
       text: |-
-        Replace this with a short blurb about your research focus.
+        Replace this paragraph with a short overview of your projects or current research.
 
     design:
       columns: "1"
@@ -42,7 +48,6 @@ sections:
   - block: collection
     content:
       title: "Recent Publications"
-      text: ""
       filters:
         folders: ["publications"]
         exclude_featured: false
