@@ -30,8 +30,8 @@ sections:
             <a href="https://bsky.app/profile/maxbradley.bsky.social">Bluesky</a>
           </div>
           <div style="margin-top:6px;">
-            <a href="/uploads/resume.pdf">Download CV</a>
-          </div>
+  <a href="/uploads/CV_2025.pdf">Download CV</a>
+        </div>
         </div>
     design:
       columns: "1"
