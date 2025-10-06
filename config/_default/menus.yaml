@@ -20,5 +20,5 @@ main:
     weight: 50
 
   - name: "CV"
-    url: "/uploads/resume.pdf"
+    url: "/uploads/CV_2025.pdf"
     weight: 60
