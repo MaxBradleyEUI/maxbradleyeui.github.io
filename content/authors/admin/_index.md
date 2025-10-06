@@ -6,6 +6,6 @@ organizations:
     url: "https://www.eui.eu/people?id=max-bradley"
 bio: "I study the political economy of the green transition, focusing on how local human capital shapes adaptation and political responses."
 email: "max.bradley@eui.eu"
-avatar: "avatar.jpg"
+avatar: "headshot_eui.jpg"
 superuser: true
 ---
