@@ -103,12 +103,12 @@ sections:
 
         Together with <a href="https://sites.google.com/site/jeffdcolgan/">Jeff Colgan</a> at Brown University’s <a href="https://climate.watson.brown.edu/syllabus-bank">Climate Syllabus Bank</a>, I recently designed an approach for teaching the political economy of decarbonization which emphasizes the different <em>theories of change</em> underlying climate action.
 
-        Our project introduces a <strong>Theory of Decarbonization</strong> framework (see above ) that helps instructors:
+        Our project introduces a frame work emphasizes different <strong>Theories of Decarbonization</strong> (see above image) which helps instructors:
         a) build structured and balanced syllabi,
         b) map existing theories of change (e.g., Kyoto, Carbon Taxes, Green New Deal), and
         c) develop hands-on exercises where students trace their own theory of change.
 
-        The framework is presented in our short explainer video and detailed in a companion working paper that reviews the emerging literature on the political economy of decarbonization and offers practical guidance for instructors.
+        The framework is presented in our short explainer video and detailed in a companion working paper that reviews the literature on the political economy of decarbonization and offers practical guidance for instructors.
 
         - 🎥 <a href="https://www.youtube.com/watch?v=CI20SpXpn8I">Watch the explainer video</a>
         - 📄 <a href="https://climate.watson.brown.edu/sites/default/files/2025-08/Designing%20Climate%20Politics%20Syllabus%202025July25.pdf">Read the working paper</a>
