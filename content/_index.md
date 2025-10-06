@@ -16,7 +16,7 @@ sections:
       text: |-
         <div style="text-align:center; max-width:820px; margin: 0 auto;">
 
-        <img src="/authors/admin/avatar.jpg" alt="Max Bradley" style="width:220px;height:220px;border-radius:50%;object-fit:cover;margin:10px auto;display:block;">
+        <img src="/authors/admin/headshot_eui.jpg" alt="Max Bradley" style="width:220px;height:220px;border-radius:50%;object-fit:cover;margin:10px auto;display:block;">
 
         <h1 style="margin-top:10px;margin-bottom:8px;">Max Bradley</h1>
 
