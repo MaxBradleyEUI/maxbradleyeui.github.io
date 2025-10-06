@@ -47,43 +47,33 @@ sections:
     design:
       columns: "1"
 
-  # PUBLICATIONS (featured)
-  - block: collection
+  # PUBLICATIONS (pure markdown list — edit freely)
+  - block: markdown
     id: papers
     content:
       title: "Publications"
-      filters:
-        folders: ["publications"]
-      featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+      text: |-
+        ### Working papers
+        - **The Contextual Climate** (with Coauthor). Under review. [PDF](/uploads/contextual_climate.pdf) · [Code](https://github.com/MaxBradleyEUI/contextual-climate)
 
-  # TEACHING
-  - block: collection
+        ### Selected publications
+        - **Title of Published Paper.** *Journal Name*, 2025. [DOI](https://doi.org/xx) · [PDF](/uploads/paper.pdf)
+
+  # TEACHING (pure markdown list)
+  - block: markdown
     id: teaching
     content:
       title: "Teaching"
-      filters:
-        folders: ["courses"]
-      exclude_featured: false
-    design:
-      view: card
-      columns: 2
+      text: |-
+        - **Introduction to Political Economy** — EUI (TA), Winter 2025. [Syllabus](/uploads/syllabus_intro_poli_econ.pdf)
+        - **Data Tutor** — Research Analytics Unit, SPS, 2023–24
 
-  # NEWS / BLOG
-  - block: collection
+  # NEWS (pure markdown list)
+  - block: markdown
     id: news
     content:
-      title: "Recent News"
-      page_type: blog
-      count: 5
-      order: desc
-      filters:
-        exclude_future: false
-        exclude_past: false
-    design:
-      view: card
-      spacing:
-        padding: [0, 0, 0, 0]
+      title: "News"
+      text: |-
+        - *Oct 2025:* Grant awarded for XYZ project. [Details](/blog/grant-xyz/)
+        - *Sep 2025:* New working paper out: **The Contextual Climate**. [PDF](/uploads/contextual_climate.pdf)
 ---
