@@ -56,6 +56,18 @@ sections:
       view: article-grid
       columns: 2
 
+# Teaching
+  - block: collection
+    id: teaching
+    content:
+      title: "Teaching"
+      filters:
+        folders: ["courses"]   # pulls items from content/courses/
+      # optional filters:
+      exclude_featured: false
+    design:
+      view: card               # options: card, article-grid, compact, list
+      columns: 2               # tweak as you like
 
   
   # NEWS / BLOG
