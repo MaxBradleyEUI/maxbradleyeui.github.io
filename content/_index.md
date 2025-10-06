@@ -57,42 +57,37 @@ sections:
 
         ### Peer-Reviewed Articles
         <p>
-        <em>The Ethnic Origins of Affective Polarization: Statistical Evidence from Cross-National Data</em>  
-        with Sylvain Chauchard. <br>
-        <em>Frontiers in Political Science</em>, 4, 920615 (2022).  
-        [Journal link](https://www.frontiersin.org/articles/10.3389/fpos.2022.920615/full)
+        <strong>The Ethnic Origins of Affective Polarization: Statistical Evidence from Cross-National Data</strong> (with Simon Chauchard).<br>
+        <em>Frontiers in Political Science</em>, 4, 920615 (2022). <a href="https://www.frontiersin.org/articles/10.3389/fpos.2022.920615/full">Journal link</a>
         </p>
 
         ### Revise & Resubmit
         <p>
-        <em>Mass Attitudes towards Russia’s Aggression against Ukraine: It Is Not the Economy</em>  
-        with František Kostelka, Martín Alberdi, Max Bradley, Thomas Fiselier, Alexandra Jabbour, Noor Mansour,  
-        Ekaterina Minaeva, Simona Porciuleanu, and Daria Rafailova. <br>
-        <em>European Journal of Political Research</em>, Revise & Resubmit.
+        <strong>Mass Attitudes towards Russia’s Aggression against Ukraine: It Is Not the Economy</strong> (with Filip Kostelka, Martín Alberdi, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, Silvia Porciuleanue, and Diana Rafailova).<br>
+        <em>European Journal of Political Research</em>, Revise &amp; Resubmit (2025).
         </p>
 
         ### Under Review
         <p>
-        <em>Cost, Risk, and Threat: The Material and Contextual Factors Driving Climate Policy Preferences.</em>  
+        <strong>Cost, Risk, and Threat: The Material &amp; Contextual Factors Driving Climate Policy Preferences</strong>.
         </p>
         <p>
-        <em>Educational Policies Can Strengthen Climate Coalitions</em>  
-        with Rens Chazottes, Susanna Garside, and Nina Lopez-Uroz.
+        <strong>Educational Policies Can Strengthen Climate Coalitions</strong> (with Rens Chazottes, Susanna Garside, and Nina Lopez-Uroz).
         </p>
 
         ### Working Papers
         <p>
-        <em>Adapt or Perish: How the Spatial Distribution of Human Capital Shapes the Economic and Political Effects of the Green Transition.</em>
+        <strong>Adapt or Perish: How the Spatial Distribution of Human Capital Shapes the Economic and Political Effects of the Green Transition</strong>.
         </p>
         <p>
-        <em>Flood Insurance and Risk Socialization</em>  
-        with Martín Alberdi, Alexandra Jabbour, and František Kostelka.
+        <strong>Flood Insurance and Risk Socialization</strong> (with Martín Alberdi, Alexandra Jabbour, and Filip Kostelka).
         </p>
         <p>
-        <em>Taking Out the Trash: Political Implications of Door-to-Door Waste Management in Catalonia</em>  
-        with Cèlia Estruch-García and Pau Grau.
+        <strong>Taking Out the Trash: Political Implications of Door-to-Door Waste Management in Catalonia</strong> (with Cèlia Estruch-Garcia and Pau Grau).
         </p>
-
+        <p>
+        <strong>Reducing Gender-Based Polarization: A Field Study in UK Schools</strong> (with Henri Pozsar, Marica Miglio, Beth Ginsburg, and Simon Hix).
+        </p>
 
   # TEACHING (pure markdown list)
   - block: markdown
