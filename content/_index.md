@@ -40,7 +40,7 @@ sections:
   - block: markdown
     id: about
     content:
-      title: "📚 About"
+      title: "About"
       subtitle: ""
       text: |-
         I am a PhD Researcher in Political and Social Sciences at the [European University Institute (EUI)](https://www.eui.eu). My research sits at the **intersection of political economy and political behaviour**. In my doctoral work, I study **the politics of the green transition, focusing on how different actors respond to and are shaped by decarbonization policies**. I emphasize the role of economic geography, human capital, and education in shaping these dynamics. More broadly, my work connects the literatures on distributive conflict, climate politics, and comparative political economy. Methodologically, I employ causal inference techniques with observational data, field and survey experiments, and qualitative interviews.
