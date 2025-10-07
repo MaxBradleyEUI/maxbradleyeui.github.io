@@ -36,21 +36,18 @@ sections:
     design:
       columns: "1"
 
-# ABOUT
-- block: markdown
-  id: about
-  content:
-    title: "📚 About"
-    subtitle: ""
-    text: |-
-      I am a PhD Researcher in Political and Social Sciences at the [European University Institute (EUI)](https://www.eui.eu). My research sits at the **intersection of political economy and political behaviour**. In my doctoral work, I study **the politics of the green transition, focusing on how different actors respond to and are shaped by decarbonization policies**. I emphasize the role of economic geography, human capital, and education in shaping these dynamics. More broadly, my work connects the literatures on distributive conflict, climate politics, and comparative political economy. Methodologically, I employ causal inference techniques with observational data, field and survey experiments, and qualitative interviews.
+  # ABOUT
+  - block: markdown
+    id: about
+    content:
+      title: "📚 About"
+      subtitle: ""
+      text: |-
+        I am a PhD Researcher in Political and Social Sciences at the [European University Institute (EUI)](https://www.eui.eu). My research sits at the **intersection of political economy and political behaviour**. In my doctoral work, I study **the politics of the green transition, focusing on how different actors respond to and are shaped by decarbonization policies**. I emphasize the role of economic geography, human capital, and education in shaping these dynamics. More broadly, my work connects the literatures on distributive conflict, climate politics, and comparative political economy. Methodologically, I employ causal inference techniques with observational data, field and survey experiments, and qualitative interviews.
 
-      During my doctoral studies, I was a Junior Visiting Scholar at Nuffield College, University of Oxford, and served as a co-organizer of the [Political Behavior Colloquium (PBC)](https://sites.google.com/site/euipolbehaviour/) at the EUI (2023–24). I hold an MSc in Political Science from Leiden University and a BA in Economics from Trinity College Dublin.
-  design:
-    columns: "1"
-
-
-
+        During my doctoral studies, I was a Junior Visiting Scholar at Nuffield College, University of Oxford, and served as a co-organizer of the [Political Behavior Colloquium (PBC)](https://sites.google.com/site/euipolbehaviour/) at the EUI (2023–24). I hold an MSc in Political Science from Leiden University and a BA in Economics from Trinity College Dublin.
+    design:
+      columns: "1"
 
   # PUBLICATIONS
   - block: markdown
@@ -125,5 +122,4 @@ sections:
       text: ""
     design:
       columns: "1"
-
 ---
