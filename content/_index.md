@@ -36,7 +36,7 @@ sections:
     design:
       columns: "1"
 
-  # ABOUT
+# ABOUT
 - block: markdown
   id: about
   content:
@@ -48,6 +48,7 @@ sections:
       During my doctoral studies, I was a Junior Visiting Scholar at Nuffield College, University of Oxford, and served as a co-organizer of the [Political Behavior Colloquium (PBC)](https://sites.google.com/site/euipolbehaviour/) at the EUI (2023–24). I hold an MSc in Political Science from Leiden University and a BA in Economics from Trinity College Dublin.
   design:
     columns: "1"
+
 
 
 
