@@ -16,7 +16,7 @@ sections:
       subtitle: ""
       text: |-
         <div style="text-align:center; max-width:820px; margin: 0 auto;">
-          <img src="/uploads/headshot_eui.jpg" alt="Max Bradley" style="width:220px;height:220px;border-radius:50%;object-fit:cover;margin:10px auto;display:block;">
+          <img src="/uploads/headshot_eui_new.jpg" alt="Max Bradley" style="width:220px;height:220px;border-radius:50%;object-fit:cover;margin:10px auto;display:block;">
           <h1 style="margin-top:10px;margin-bottom:8px;">Max Bradley</h1>
           <div style="font-size:1.1rem; line-height:1.5; margin-bottom:14px;">
             PhD Researcher, European University Institute
