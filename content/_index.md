@@ -62,6 +62,12 @@ sections:
         <em>Frontiers in Political Science</em>, 4, 920615 (2022). <a href="https://www.frontiersin.org/articles/10.3389/fpos.2022.920615/full">Journal link</a>
         </p>
 
+        ### Job Market Paper
+        <p>
+        <strong>Adapt or Perish: How the Spatial Distribution of Human Capital Shapes the Economic and Political Effects of the Green Transition</strong>. <a href="http://dropbox.com/home/job_marker_paper">Link</a>
+        </p>
+        <p>
+
         ### Revise & Resubmit
         <p>
         <strong>Mass Attitudes towards Russia’s Aggression against Ukraine: It Is Not the Economy</strong> (with Filip Kostelka, Martín Alberdi, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, Silvia Porciuleanue, and Diana Rafailova).<br>
@@ -77,10 +83,6 @@ sections:
         </p>
 
         ### Working Papers
-        <p>
-        <strong>Adapt or Perish: How the Spatial Distribution of Human Capital Shapes the Economic and Political Effects of the Green Transition</strong>.
-        </p>
-        <p>
         <strong>Flood Insurance and Risk Socialization</strong> (with Martín Alberdi, Alexandra Jabbour, and Filip Kostelka).
         </p>
         <p>
