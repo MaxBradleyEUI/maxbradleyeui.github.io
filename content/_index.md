@@ -64,7 +64,7 @@ sections:
 
         ### Job Market Paper
         <p>
-        <strong>Adapt or Perish: How the Spatial Distribution of Human Capital Shapes the Economic and Political Effects of the Green Transition</strong>. <a href="https://www.dropbox.com/home/job_marker_paper?select=gt_hc_mb_v5.pdf&preview=adapt_perish_mb_JMP.pdf">Link</a>
+        <strong>Adapt or Perish: How the Spatial Distribution of Human Capital Shapes the Economic and Political Effects of the Green Transition</strong>. <a href="https://www.dropbox.com/scl/fi/1hxc8856jva9c9sgnt632/adapt_perish_mb_JMP.pdf?rlkey=w9udnvv4pnqcp1i4j6ftnvk0a&st=rk3z9ny1&dl=0">Link</a>
         </p>
         <p>
 
