@@ -121,7 +121,7 @@ sections:
     id: news
     content:
       title: "News"
-      text: ""
+      text: "The first paper of my dissertation was recently awarded the Ireland Thinks Best Paper Prize, which is awarded annually to the best paper delivered by an early-career researcher at the Political Science Association of Ireland (PSAI) Conference. Read more about it at this <a href="https://www.linkedin.com/feed/update/urn:li:activity:7400095367155064832/">link</a>."
     design:
       columns: "1"
 ---
