@@ -30,7 +30,7 @@ sections:
             <a href="https://bsky.app/profile/maxbradley.bsky.social">Bluesky</a>
           </div>
           <div style="margin-top:6px;">
-            <a href="/uploads/CV_2025.pdf">Download CV</a>
+            <a href="/uploads/CV_2026.pdf">Download CV</a>
           </div>
         </div>
     design:
@@ -73,14 +73,16 @@ sections:
         <strong>Mass Attitudes towards Russia’s Aggression against Ukraine: It Is Not the Economy</strong> (with Filip Kostelka, Martín Alberdi, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, Silvia Porciuleanue, and Diana Rafailova).<br>
         <em>European Journal of Political Research</em>, Revise &amp; Resubmit (2025).
         </p>
+        <strong>Educational Policies Can Strengthen Climate Coalitions</strong> (with Rens Chazottes, Susanna Garside, and Nina Lopez-Uroz).<br>
+        <em>Proceedings of the National Academy of Sciences</em>, Revise &amp; Resubmit (2026).
+        </p>
 
         ### Under Review
         <p>
         <strong>Cost, Risk, and Threat: The Material &amp; Contextual Factors Driving Climate Policy Preferences</strong>.
         </p>
         <p>
-        <strong>Educational Policies Can Strengthen Climate Coalitions</strong> (with Rens Chazottes, Susanna Garside, and Nina Lopez-Uroz).
-        </p>
+
 
         ### Working Papers
         <strong>Flood Insurance and Risk Socialization</strong> (with Martín Alberdi, Alexandra Jabbour, and Filip Kostelka).
