@@ -70,18 +70,34 @@ sections:
 
         ### Revise & Resubmit
         <p>
-        <strong>Mass Attitudes towards Russia’s Aggression against Ukraine: It Is Not the Economy</strong> (with Filip Kostelka, Martín Alberdi, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, Silvia Porciuleanue, and Diana Rafailova).<br>
-        <em>European Journal of Political Research</em>, Revise &amp; Resubmit (2025).
-        </p>
-        <strong>Educational Policies Can Strengthen Climate Coalitions</strong> (with Rens Chazottes, Susanna Garside, and Nina Lopez-Uroz).<br>
-        <em>Proceedings of the National Academy of Sciences</em>, Revise &amp; Resubmit (2026).
-        </p>
+  <strong>Mass Attitudes towards Russia’s Aggression against Ukraine: It Is Not the Economy</strong>
+  (with Filip Kostelka, Martín Alberdi, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, Silvia Porciuleanue, and Diana Rafailova).<br>
+  <em>European Journal of Political Research</em>, Revise &amp; Resubmit (2025).
+</p>
 
-        ### Under Review
-        <p>
-        <strong>Cost, Risk, and Threat: The Material &amp; Contextual Factors Driving Climate Policy Preferences</strong>.
-        </p>
-        <p>
+<details style="margin: 0.4rem 0 1.2rem 0;">
+  <summary style="cursor: pointer; font-weight: 600;">
+    Abstract
+  </summary>
+  <div style="margin-top: 0.6rem; line-height: 1.6;">
+    This paper studies variation in mass attitudes towards the Russo-Ukrainian War. Although most Europeans express dismay at Russia's aggression against Ukraine, more ambivalent or even pro-Kremlin positions are not rare. Drawing on the literature on foreign policy and wars, we hypothesize that support for the aggressor may reflect a quartet of factors: economic interests, ideological preferences, political cues, and disinformation. We probe the role of these factors using an original survey conducted in five countries (Czechia, France, Poland, Romania, and Slovakia) and spanning over 12,000 respondents. The results of three types of analyses reveal that neutral and pro-Kremlin positions, supported by significant segments of European society, are minimally related to economic interests. They are most strongly tied to political cues, followed by disinformation and ideology. These findings carry important implications for containing Russia's influence over Europe's public opinion and contribute to the literature on public preference formation in the field of foreign policy.
+  </div>
+</details>
+
+<p>
+  <strong>Educational Policies Can Strengthen Climate Coalitions</strong>
+  (with Rens Chazottes, Susanna Garside, and Nina Lopez-Uroz).<br>
+  <em>Proceedings of the National Academy of Sciences</em>, Revise &amp; Resubmit (2026).
+</p>
+
+<details style="margin: 0.4rem 0 1.2rem 0;">
+  <summary style="cursor: pointer; font-weight: 600;">
+    Abstract
+  </summary>
+  <div style="margin-top: 0.6rem; line-height: 1.6;">
+    Building public support for ambitious climate policies is a central challenge for governments seeking to decarbonize their economies. Many climate change mitigation policies pose visible material costs on citizens, and governments have limited fiscal capacity to deploy compensatory measures. Education is often used as a tool to build public awareness about climate change, but its effect on support for climate policies is not well understood. We evaluate the effects of a climate education policy through the study of a real-world large-scale educational intervention: a three-hour interactive workshop which has so far been implemented in over 500 French universities. We employed a randomized control trial reaching 1,845 students across 167 workshops. Students who took the workshop expressed 7 percentage points higher support for costly climate policies, including a beef tax, short-haul flight ban, and meat-free university canteen, compared with the control group. The workshop increased beliefs in the effectiveness of these policies and elicited more positive emotions about climate action. Evidence from a sub-sample of follow-up survey respondents suggests these effects may persist for at least six weeks. We find no evidence that the workshop increases willingness to donate to a climate NGO. Overall, the results suggest that well-designed climate education can play a role in broadening public coalitions for ambitious climate policies by strengthening perceived policy effectiveness and support for costly policies.
+  </div>
+</details>
 
 
         ### Working Papers
