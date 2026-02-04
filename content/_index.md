@@ -96,17 +96,18 @@ sections:
           </div>
         </details>
 
-      ### Under Review
-<p>
-  <strong>A Threatening Climate: How Material Threat Reshapes the Educational Cleavage</strong>.
-</p>
+        ### Under Review
+        <p>
+          <strong>A Threatening Climate: How Material Threat Reshapes the Educational Cleavage</strong>.
+        </p>
 
-<details style="margin: 0.4rem 0 1.2rem 0;">
-  <summary style="cursor: pointer; font-weight: 600;">Abstract</summary>
-  <div style="margin-top: 0.6rem; line-height: 1.6;">
-    Who supports climate policies and why? While much of the comparative politics literature points to an education-based cleavage in climate preferences and Green party support, recent work in political economy emphasizes the material threats posed by climate policy to workers in high-emitting sectors. This paper reconciles these perspectives by arguing that education-based differences in climate preferences are conditional on exposure to material threat. Using data from eleven rounds of the European Social Survey combined with sectoral-level emissions data from the OECD, I show that educational gaps in support for carbon taxes, green subsidies, and Green parties diminish as material exposure increases, driven by declining support among highly educated workers. Panel analyses using the German Socio-Economic Panel indicate that these patterns reflect preference updating, not self-selection. Together, the findings demonstrate how climate preferences are jointly shaped by material exposure and values-based orientations.
-  </div>
-</details>
+        <details style="margin: 0.4rem 0 1.2rem 0;">
+          <summary style="cursor: pointer; font-weight: 600;">Abstract</summary>
+          <div style="margin-top: 0.6rem; line-height: 1.6;">
+            Who supports climate policies and why? While much of the comparative politics literature points to an education-based cleavage in climate preferences and Green party support, recent work in political economy emphasizes the material threats posed by climate policy to workers in high-emitting sectors. This paper reconciles these perspectives by arguing that education-based differences in climate preferences are conditional on exposure to material threat. Using data from eleven rounds of the European Social Survey combined with sectoral-level emissions data from the OECD, I show that educational gaps in support for carbon taxes, green subsidies, and Green parties diminish as material exposure increases, driven by declining support among highly educated workers. Panel analyses using the German Socio-Economic Panel indicate that these patterns reflect preference updating, not self-selection. Together, the findings demonstrate how climate preferences are jointly shaped by material exposure and values-based orientations.
+          </div>
+        </details>
+
 
 
         ### Working Papers
