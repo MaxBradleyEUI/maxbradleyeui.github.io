@@ -115,9 +115,6 @@ sections:
           <strong>Flood Insurance and Risk Socialization</strong> (with Martín Alberdi, Alexandra Jabbour, and Filip Kostelka).
         </p>
         <p>
-          <strong>Taking Out the Trash: Political Implications of Door-to-Door Waste Management in Catalonia</strong> (with Cèlia Estruch-Garcia and Pau Grau).
-        </p>
-        <p>
           <strong>Reducing Gender-Based Polarization: A Field Study in UK Schools</strong> (with Henri Pozsar, Marica Miglio, Beth Ginsburg, and Simon Hix).
         </p>
         <p>
