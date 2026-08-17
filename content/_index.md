@@ -74,7 +74,7 @@ sections:
 
 
         <p>
-<strong>Mass attitudes towards Russia’s aggression against Ukraine: Tentative support for top-down opinion formation.</strong>
+          <strong>Mass attitudes towards Russia's aggression against Ukraine: Tentative support for top-down opinion formation.</strong>
           (with Filip Kostelka, Martín Alberdi, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, Silvia Porciuleanue, and Diana Rafailova).<br>
           <em>European Journal of Political Research</em>, (2026): 1-26. <a href="https://www.cambridge.org/core/journals/european-journal-of-political-research/article/mass-attitudes-towards-russias-aggression-against-ukraine-tentative-support-for-topdown-opinion-formation/65EB75D3B5B24508474B044DFB98085A">Journal link</a>
         </p>
