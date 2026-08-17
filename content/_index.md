@@ -44,7 +44,7 @@ sections:
       subtitle: ""
       text: |-
         I am a Postdoctoral Research Associate in Climate Solutions at The Watson School of International and Public Affairs at Brown University. My research sits at the **intersection of political economy and political behaviour**. I study **the politics of the green transition, focusing on how different actors respond to and are shaped by decarbonization policies**. I emphasize the role of economic geography, human capital, and education in shaping these dynamics. More broadly, my work connects the literatures on distributive conflict, climate politics, and comparative political economy. Methodologically, I employ causal inference techniques with observational data, field and survey experiments, and qualitative interviews.
-        I received my Doctorate in 2026 from the European University Institute. In 2024, I was a Junior Visiting Scholar at Nuffield College, University of Oxford. I also hold an MSc in Political Science from Leiden University and a BA in Economics from Trinity College Dublin.
+        I completed my doctorate in Political and Social Sciences in 2026 at the European University Institute. In 2024, I was a Junior Visiting Scholar at Nuffield College, University of Oxford. I also hold an MSc in Political Science from Leiden University and a BA in Economics from Trinity College Dublin.
 
     design:
       columns: "1"
@@ -57,6 +57,36 @@ sections:
       text: |-
 
         ### Peer-Reviewed Articles
+        <p>
+          <strong>Educational Policies Can Strengthen Climate Coalitions</strong>
+          (with Rens Chazottes, Susanna Garside, and Nina Lopez-Uroz).<br>
+          <em>Proceedings of the National Academy of Sciences</em>, 2026: 123(20), e2533821123. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2533821123">Journal link</a>
+        </p>
+
+        <details style="margin: 0.4rem 0 1.2rem 0;">
+          <summary style="cursor: pointer; font-weight: 600;">Abstract</summary>
+          <div style="margin-top: 0.6rem; line-height: 1.6;">
+            Building public support for ambitious climate policies is a central challenge for governments seeking to decarbonize their economies. Many climate change mitigation policies impose visible material costs on citizens, and governments have limited fiscal capacity to deploy compensatory measures. Education is often used as a tool to build public awareness about climate change, but its effect on support for climate policies is not well understood. We evaluate the effects of a climate education policy through the study of a real-world large-scale educational intervention: a 3-h interactive workshop which has so far been implemented in over 500 French universities. We employed a randomized control trial reaching 1,845 students across 167 workshops. Students who took the workshop expressed 7 percentage points higher support for costly climate policies, including a beef tax, short-haul flight ban, and meat-free university canteen, compared with the control group. The workshop increased beliefs in the effectiveness of these policies and elicited more positive emotions about climate action. Evidence from a subsample of follow-up survey respondents suggests these effects may persist for at least 6 wk. We find no evidence that the workshop increases willingness to donate to a climate NGO. Overall, the results suggest that well-designed climate education can play a role in broadening public coalitions for ambitious climate policies by strengthening perceived policy effectiveness and support for costly policies.
+
+          </div>
+        </details>
+
+
+
+        <p>
+<strong>Mass attitudes towards Russia’s aggression against Ukraine: Tentative support for top-down opinion formation.</strong>
+          (with Filip Kostelka, Martín Alberdi, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, Silvia Porciuleanue, and Diana Rafailova).<br>
+          <em>European Journal of Political Research</em>, (2026): 1-26. <a href="https://www.cambridge.org/core/journals/european-journal-of-political-research/article/mass-attitudes-towards-russias-aggression-against-ukraine-tentative-support-for-topdown-opinion-formation/65EB75D3B5B24508474B044DFB98085A">Journal link</a>
+        </p>
+
+        <details style="margin: 0.4rem 0 1.2rem 0;">
+          <summary style="cursor: pointer; font-weight: 600;">Abstract</summary>
+          <div style="margin-top: 0.6rem; line-height: 1.6;">
+            This paper studies variation in mass attitudes towards the Russo-Ukrainian War. Although most Europeans express dismay at Russia’s aggression against Ukraine, more ambivalent or even pro-Kremlin positions are not rare. Drawing on the literature on foreign policy and war, we hypothesise that support for the aggressor may stem from a quartet of factors: economic interests, ideological preferences, partisan alignment, and disinformation. We examine the role of these factors using two types of survey data. The first is an original survey conducted in five countries (Czechia, France, Poland, Romania, and Slovakia) and spanning over 12,000 respondents. The second is the Solidarity in Europe survey, with more than 24,000 respondents from seventeen countries. The results of three types of analyses reveal that neutral and pro-Kremlin attitudes, held by sizeable segments of European society, are most strongly linked to the positions of respondents’ preferred political parties, followed by disinformation and ideology. Overall, top-down models of public opinion seem to better explain within-country variations in attitudes towards the conflict than bottom-up models. These findings, which should be interpreted with caution, carry important implications for containing Russia’s influence on European public opinion and contribute to the literature on public preference formation in the field of foreign policy.
+          </div>
+        </details>
+
+
         <p>
           <strong>The Ethnic Origins of Affective Polarization: Statistical Evidence from Cross-National Data</strong> (with Simon Chauchard).<br>
           <em>Frontiers in Political Science</em>, 4, 920615 (2022). <a href="https://www.frontiersin.org/articles/10.3389/fpos.2022.920615/full">Journal link</a>
@@ -71,31 +101,7 @@ sections:
         ### Revise &amp; Resubmit
 
         <p>
-          <strong>Mass Attitudes towards Russia’s Aggression against Ukraine: It Is Not the Economy</strong>
-          (with Filip Kostelka, Martín Alberdi, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, Silvia Porciuleanue, and Diana Rafailova).<br>
-          <em>European Journal of Political Research</em>, Revise &amp; Resubmit (2025).
-        </p>
-
-        <details style="margin: 0.4rem 0 1.2rem 0;">
-          <summary style="cursor: pointer; font-weight: 600;">Abstract</summary>
-          <div style="margin-top: 0.6rem; line-height: 1.6;">
-            This paper studies variation in mass attitudes towards the Russo-Ukrainian War. Although most Europeans express dismay at Russia's aggression against Ukraine, more ambivalent or even pro-Kremlin positions are not rare. Drawing on the literature on foreign policy and wars, we hypothesize that support for the aggressor may reflect a quartet of factors: economic interests, ideological preferences, political cues, and disinformation. We probe the role of these factors using an original survey conducted in five countries (Czechia, France, Poland, Romania, and Slovakia) and spanning over 12,000 respondents. The results of three types of analyses reveal that neutral and pro-Kremlin positions, supported by significant segments of European society, are minimally related to economic interests. They are most strongly tied to political cues, followed by disinformation and ideology. These findings carry important implications for containing Russia's influence over Europe's public opinion and contribute to the literature on public preference formation in the field of foreign policy.
-          </div>
-        </details>
-
-        <p>
-          <strong>Educational Policies Can Strengthen Climate Coalitions</strong>
-          (with Rens Chazottes, Susanna Garside, and Nina Lopez-Uroz).<br>
-          <em>Proceedings of the National Academy of Sciences</em>, Revise &amp; Resubmit (2026).
-        </p>
-
-        <details style="margin: 0.4rem 0 1.2rem 0;">
-          <summary style="cursor: pointer; font-weight: 600;">Abstract</summary>
-          <div style="margin-top: 0.6rem; line-height: 1.6;">
-            Building public support for ambitious climate policies is a central challenge for governments seeking to decarbonize their economies. Many climate change mitigation policies pose visible material costs on citizens, and governments have limited fiscal capacity to deploy compensatory measures. Education is often used as a tool to build public awareness about climate change, but its effect on support for climate policies is not well understood. We evaluate the effects of a climate education policy through the study of a real-world large-scale educational intervention: a three-hour interactive workshop which has so far been implemented in over 500 French universities. We employed a randomized control trial reaching 1,845 students across 167 workshops. Students who took the workshop expressed 7 percentage points higher support for costly climate policies, including a beef tax, short-haul flight ban, and meat-free university canteen, compared with the control group. The workshop increased beliefs in the effectiveness of these policies and elicited more positive emotions about climate action. Evidence from a sub-sample of follow-up survey respondents suggests these effects may persist for at least six weeks. We find no evidence that the workshop increases willingness to donate to a climate NGO. Overall, the results suggest that well-designed climate education can play a role in broadening public coalitions for ambitious climate policies by strengthening perceived policy effectiveness and support for costly policies.
-          </div>
-        </details>
-
+          
         ### Under Review
         <p>
           <strong>A Threatening Climate: How Material Threat Reshapes the Educational Cleavage</strong>.
