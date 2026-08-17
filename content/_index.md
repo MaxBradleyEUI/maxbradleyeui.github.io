@@ -94,16 +94,29 @@ sections:
         </p>
 
         ### Job Market Paper
-        <p>
-          <strong>Adapt or Perish: How the Spatial Distribution of Human Capital Shapes the Economic and Political Effects of the Green Transition</strong>.
-          <a href="https://www.dropbox.com/scl/fi/2njevlr7zkqpryi42f07d/Adapt_Perish_JMP_MB.pdf?rlkey=k63ku4w35vscgqi7jg44dwc7r&st=cba265ch&dl=0">Link</a>
-        </p>
+        
 
         ### Revise &amp; Resubmit
 
         <p>
           
         ### Under Review
+       
+
+
+        ### Working Papers
+        <p>
+          <strong>Adapt or Perish: How the Spatial Distribution of Human Capital Shapes the Economic and Political Effects of the Green Transition</strong>.
+        </p>
+    
+        <details style="margin: 0.4rem 0 1.2rem 0;">
+          <summary style="cursor: pointer; font-weight: 600;">Abstract</summary>
+          <div style="margin-top: 0.6rem; line-height: 1.6;">
+            What are the economic and political effects of the green transition? Existing re search emphasizes a between-sector logic where firms in high-emitting industries face greater costs from decarbonization policies. I argue that, while this perspective cap tures exposure to the transition, it obscures an important within-sector dynamic the ability of some firms to adapt better than others. I contend that a crucial factor that determines the adaptability of firms is the level of human capital in the local labour force. Access to skilled workers reduces labour-market frictions and enables firms to adapt by adopting greener activities. Where human capital is scarce, firms struggle to adapt, leading to an economic divergence across communities. Using the United Kingdom as a case, I show that following the 2008 Climate Change Act, high emitting firms in high–human capital communities adapted and grew, while those in low–human capital communities declined. This divergence in economic trajectories has political consequences. Residents of exposed, low-human-capital communities display greater support for transition-mitigation policies that compensate high-emitting firms, whereas differences are weaker for transition-acceleration policies such as renewable energy investment and retraining programmes. These patterns are consistent with sociotropic theories in which local economic prospects inform political preferences.
+          </div>
+        </details>
+
+
         <p>
           <strong>A Threatening Climate: How Material Threat Reshapes the Educational Cleavage</strong>.
         </p>
@@ -116,8 +129,6 @@ sections:
         </details>
 
 
-
-        ### Working Papers
         <p>
           <strong>Flood Insurance and Risk Socialization</strong> (with Martín Alberdi, Alexandra Jabbour, and Filip Kostelka).
         </p>
