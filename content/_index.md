@@ -93,15 +93,7 @@ sections:
           <em>Frontiers in Political Science</em>, 4, 920615 (2022). <a href="https://www.frontiersin.org/articles/10.3389/fpos.2022.920615/full">Journal link</a>
         </p>
 
-        ### Job Market Paper
-        
-
-        ### Revise &amp; Resubmit
-
-        <p>
-          
-        ### Under Review
-       
+      
 
 
         ### Working Papers
@@ -136,7 +128,7 @@ sections:
           <strong>Reducing Gender-Based Polarization: A Field Study in UK Schools</strong> (with Henri Pozsar, Marica Miglio, Beth Ginsburg, and Simon Hix).
         </p>
         <p>
-          <strong>A Broken Union? Cohesion, Legitimacy, and the Political Consequences of Collective Action </strong> (with Diane Bolet).
+          <strong>A Broken Union? Cohesion, Legitimacy, and the Political Consequences of Collective Action </strong> .
         </p>
     
     design:
