@@ -19,10 +19,10 @@ sections:
           <img src="/uploads/headshot_eui_new.jpg" alt="Max Bradley" style="width:220px;height:220px;border-radius:50%;object-fit:cover;margin:10px auto;display:block;">
           <h1 style="margin-top:10px;margin-bottom:8px;">Max Bradley</h1>
           <div style="font-size:1.1rem; line-height:1.5; margin-bottom:14px;">
-            PhD Researcher, European University Institute
+            Postdoctoral Researcher, Brown University
           </div>
           <div style="margin:14px 0;">
-            <a href="mailto:max.bradley@eui.eu">Email</a> ·
+            <a href="mailto:max_bradley@brown.edu">Email</a> ·
             <a href="https://github.com/MaxBradleyEUI">GitHub</a> ·
             <a href="https://scholar.google.com/citations?hl=en&user=3RV95E4AAAAJ">Google Scholar</a> ·
             <a href="https://orcid.org/0009-0002-1750-3950">ORCID</a> ·
