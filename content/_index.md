@@ -24,7 +24,7 @@ sections:
           <div style="margin:14px 0;">
             <a href="mailto:max_bradley@brown.edu">Email</a> ·
             <a href="https://github.com/MaxBradleyEUI">GitHub</a> ·
-            <a href="https://scholar.google.com/citations?hl=en&user=3RV95E4AAAAJ">Google Scholar</a> ·
+            <a href="https://scholar.google.com/citations?user=4QegIYAAAAAJ&hl=en&authuser=1">Google Scholar</a> ·
             <a href="https://orcid.org/0009-0002-1750-3950">ORCID</a> ·
             <a href="https://www.linkedin.com/in/max-bradley/">LinkedIn</a> ·
             <a href="https://bsky.app/profile/maxbradley.bsky.social">Bluesky</a>
