@@ -54,30 +54,41 @@ sections:
   - block: markdown
     id: papers
     content:
-      title: "Publications"
+      title: "Research"
       text: |-
+
+        ### Job Market Paper
+        <p>
+          <strong>Adapt or Perish: How the Spatial Distribution of Human Capital Shapes the Economic and Political Effects of the Green Transition</strong>.<br>
+          <a href="https://www.dropbox.com/scl/fi/n6sld32r2k194fb6dhl9n/Adapt_Perish_JMP_MB.pdf?rlkey=ajf2kk8m91990d2g8vpgw41og&st=y9n6yk9m&dl=0">PDF</a>
+        </p>
+
+        <details style="margin: 0.4rem 0 1.2rem 0;">
+          <summary style="cursor: pointer; font-weight: 600;">Abstract</summary>
+          <div style="margin-top: 0.6rem; line-height: 1.6;">
+            Existing research on the green transition emphasizes a between-sector logic where firms in high-emitting industries face greater costs from decarbonization policies. I argue that, while this perspective captures exposure, it obscures a within-sector dynamic, namely the ability of some firms to adapt better than others. Firms are better placed to adapt when they have access to a local labour force with high levels of human capital, as this provides the skills needed to shift towards greener activities. As human capital is unevenly distributed, communities diverge economically. In the UK, I show that following the 2008 Climate Change Act, high-emitting firms in high-human capital communities adapted and grew, while those in low-human capital communities stagnated. Politically, residents of exposed communities which have adapted and benefited are less supportive of transition-mitigation policies that compensate incumbent firms, whereas support for transition-acceleration policies does not differ across exposed communities. These patterns are consistent with sociotropic theories.
+          </div>
+        </details>
+
 
         ### Peer-Reviewed Articles
         <p>
           <strong>Educational Policies Can Strengthen Climate Coalitions</strong>
           (with Rens Chazottes, Susanna Garside, and Nina Lopez-Uroz).<br>
-          <em>Proceedings of the National Academy of Sciences</em>, 2026: 123(20), e2533821123. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2533821123">Journal link</a>
+          <em>Proceedings of the National Academy of Sciences</em> 123(20): e2533821123 (2026). <a href="https://doi.org/10.1073/pnas.2533821123">Journal link</a>
         </p>
 
         <details style="margin: 0.4rem 0 1.2rem 0;">
           <summary style="cursor: pointer; font-weight: 600;">Abstract</summary>
           <div style="margin-top: 0.6rem; line-height: 1.6;">
             Building public support for ambitious climate policies is a central challenge for governments seeking to decarbonize their economies. Many climate change mitigation policies impose visible material costs on citizens, and governments have limited fiscal capacity to deploy compensatory measures. Education is often used as a tool to build public awareness about climate change, but its effect on support for climate policies is not well understood. We evaluate the effects of a climate education policy through the study of a real-world large-scale educational intervention: a 3-h interactive workshop which has so far been implemented in over 500 French universities. We employed a randomized control trial reaching 1,845 students across 167 workshops. Students who took the workshop expressed 7 percentage points higher support for costly climate policies, including a beef tax, short-haul flight ban, and meat-free university canteen, compared with the control group. The workshop increased beliefs in the effectiveness of these policies and elicited more positive emotions about climate action. Evidence from a subsample of follow-up survey respondents suggests these effects may persist for at least 6 wk. We find no evidence that the workshop increases willingness to donate to a climate NGO. Overall, the results suggest that well-designed climate education can play a role in broadening public coalitions for ambitious climate policies by strengthening perceived policy effectiveness and support for costly policies.
-
           </div>
         </details>
 
-
-
         <p>
-          <strong>Mass attitudes towards Russia's aggression against Ukraine: Tentative support for top-down opinion formation.</strong>
-          (with Filip Kostelka, Martín Alberdi, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, Silvia Porciuleanue, and Diana Rafailova).<br>
-          <em>European Journal of Political Research</em>, (2026): 1-26. <a href="https://www.cambridge.org/core/journals/european-journal-of-political-research/article/mass-attitudes-towards-russias-aggression-against-ukraine-tentative-support-for-topdown-opinion-formation/65EB75D3B5B24508474B044DFB98085A">Journal link</a>
+          <strong>Mass Attitudes towards Russia's Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation</strong>
+          (with Filip Kostelka, Martín Alberdi, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, Silvia Porciuleanu, and Diana Rafailova).<br>
+          <em>European Journal of Political Research</em>, online first (2026). <a href="https://doi.org/10.1017/S1475676526101352">Journal link</a>
         </p>
 
         <details style="margin: 0.4rem 0 1.2rem 0;">
@@ -87,28 +98,13 @@ sections:
           </div>
         </details>
 
-
         <p>
           <strong>The Ethnic Origins of Affective Polarization: Statistical Evidence from Cross-National Data</strong> (with Simon Chauchard).<br>
-          <em>Frontiers in Political Science</em>, 4, 920615 (2022). <a href="https://www.frontiersin.org/articles/10.3389/fpos.2022.920615/full">Journal link</a>
+          <em>Frontiers in Political Science</em> 4: 920615 (2022). <a href="https://doi.org/10.3389/fpos.2022.920615">Journal link</a>
         </p>
 
-      
 
-
-        ### Working Papers
-        <p>
-          <strong>Adapt or Perish: How the Spatial Distribution of Human Capital Shapes the Economic and Political Effects of the Green Transition</strong>.
-        </p>
-    
-        <details style="margin: 0.4rem 0 1.2rem 0;">
-          <summary style="cursor: pointer; font-weight: 600;">Abstract</summary>
-          <div style="margin-top: 0.6rem; line-height: 1.6;">
-            What are the economic and political effects of the green transition? Existing re search emphasizes a between-sector logic where firms in high-emitting industries face greater costs from decarbonization policies. I argue that, while this perspective cap tures exposure to the transition, it obscures an important within-sector dynamic the ability of some firms to adapt better than others. I contend that a crucial factor that determines the adaptability of firms is the level of human capital in the local labour force. Access to skilled workers reduces labour-market frictions and enables firms to adapt by adopting greener activities. Where human capital is scarce, firms struggle to adapt, leading to an economic divergence across communities. Using the United Kingdom as a case, I show that following the 2008 Climate Change Act, high emitting firms in high–human capital communities adapted and grew, while those in low–human capital communities declined. This divergence in economic trajectories has political consequences. Residents of exposed, low-human-capital communities display greater support for transition-mitigation policies that compensate high-emitting firms, whereas differences are weaker for transition-acceleration policies such as renewable energy investment and retraining programmes. These patterns are consistent with sociotropic theories in which local economic prospects inform political preferences.
-          </div>
-        </details>
-
-
+        ### Papers Under Review
         <p>
           <strong>A Threatening Climate: How Material Threat Reshapes the Educational Cleavage</strong>.
         </p>
@@ -120,20 +116,27 @@ sections:
           </div>
         </details>
 
+        <p>
+          <strong>Taking Out the Trash: Political Implications of Door-to-Door Waste Management in Catalonia</strong> (with Cèlia Estruch-Garcia and Pau Grau).
+        </p>
 
+
+        ### Working Papers
+        <p>
+          <strong>Property Markets and Climate Risk</strong> (with Jeff Colgan).
+        </p>
+        <p>
+          <strong>A Broken Union? Cohesion, Legitimacy, and the Political Consequences of Collective Action</strong> (with Diane Bolet).
+        </p>
         <p>
           <strong>Flood Insurance and Risk Socialization</strong> (with Martín Alberdi, Alexandra Jabbour, and Filip Kostelka).
         </p>
         <p>
           <strong>Reducing Gender-Based Polarization: A Field Study in UK Schools</strong> (with Henri Pozsar, Marica Miglio, Beth Ginsburg, and Simon Hix).
         </p>
-        <p>
-          <strong>A Broken Union? Cohesion, Legitimacy, and the Political Consequences of Collective Action </strong> .
-        </p>
-    
+
     design:
       columns: "1"
-
 
   # TEACHING
   - block: markdown
